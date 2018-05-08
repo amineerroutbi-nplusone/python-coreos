@@ -1,6 +1,7 @@
 # Install python-coreos
 
 this script install Active Python x86_64 binary to CoreOS. \
+Please simply use the following commands: \
 \
 sudo git clone https://github.com/amineerroutbi-nplusone/python-coreos \
 cd python-coreos \
